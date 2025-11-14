@@ -2,3 +2,5 @@ a.out
 main
 main.exe
 main.o
+.vscode/c_cpp_properties.json
+.vscode/settings.json
